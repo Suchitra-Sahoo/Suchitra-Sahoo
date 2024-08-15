@@ -6,15 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchitra-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="suchitra-sahoo" /> </p>
 
-- 🔭 I’m currently working on [AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork)
+- 🔭 I’m currently working on Backend Development.
 
-- 🌱 I’m currently learning **Flutter, Numpy, Pandas, MongoDB,Nodejs**
+- 🌱 I’m currently learning **Flutter, Numpy, Pandas, MongoDB, Nodejs**
 
-- 👯 I’m looking to collaborate on [AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork)
-
-- 🤝 I’m looking for help with [AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork)
-
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
 
 - 📫 How to reach me **suchitrasahoo874@gmail.com**
 
