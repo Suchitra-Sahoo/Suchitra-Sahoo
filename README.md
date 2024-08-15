@@ -39,5 +39,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchitra-sahoo&" alt="suchitra-sahoo" /></p>
 <img src="https://holopin.me/suchitrasahoo" alt="An image of @suchitrasahoo's Holopin badges, which is a link to view their full Holopin profile">
 <div align="center">
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="300px" height="300px" />
+ 
 </div>
