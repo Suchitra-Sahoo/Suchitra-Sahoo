@@ -34,7 +34,7 @@
 
 ## 🛠 Languages & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,mysql,bootstrap,git,azure,arduino,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,mysql,bootstrap,git,azure,c,cpp" />
 </p>
 
 ---
