@@ -26,12 +26,16 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suchitra-sahoo&show_icons=true&locale=en&layout=compact" alt="suchitra-sahoo" /></p>
+<!-- GitHub stats with dark theme -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suchitra-sahoo&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suchitra-sahoo&show_icons=true&locale=en" alt="suchitra-sahoo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suchitra-sahoo&show_icons=true&locale=en&theme=radical" alt="GitHub stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchitra-sahoo&" alt="suchitra-sahoo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchitra-sahoo&theme=radical" alt="GitHub streak" /></p>
 
+---
 ## 📊 Contribution Graph
 [![Suchitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suchitra-sahoo&bg_color=0d1117&color=00f7ff&line=8a2be2&point=00f7ff&area=true&hide_border=true)](https://github.com/suchitra-sahoo)
 
