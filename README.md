@@ -12,9 +12,10 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suchitra-sahoo&label=Profile%20views&color=00f7ff&style=flat-square" alt="profile views" />
+<p  style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=suchitra-sahoo&label=Profile%20views&color=ff00ff&style=flat" alt="profile views" width="180" />
 </p>
+
 
 💌 **Reach Me At** → **suchitrasahoo874@gmail.com** ✨  
 
