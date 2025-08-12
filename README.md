@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchitra-sahoo&theme=radical" alt="GitHub streak" /></p>
 
 ---
-## 📊 Contribution Graph
+## ✨ Contribution Graph
 [![Suchitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suchitra-sahoo&bg_color=0d1117&color=00f7ff&line=8a2be2&point=00f7ff&area=true&hide_border=true)](https://github.com/suchitra-sahoo)
 
 <img src="https://holopin.me/suchitrasahoo" alt="An image of @suchitrasahoo's Holopin badges, which is a link to view their full Holopin profile">
