@@ -1,4 +1,4 @@
-[![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](https://github.com/Suchitra-Sahoo)
+[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://github.com/Suchitra-Sahoo)
 <h1 align="center">Hi 👋, I'm Suchitra Sahoo</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
