@@ -17,7 +17,14 @@
 </p>
 
 
-💌 **Reach Me At** → **suchitrasahoo874@gmail.com** ✨  
+<p align="left" style="font-size: 20px; color: #00f7ff; font-weight: bold; text-shadow: 
+  0 0 5px #00f7ff, 
+  0 0 10px #8a2be2, 
+  0 0 20px #00f7ff, 
+  0 0 30px #8a2be2;">
+💌 <span style="color:#ff6fff;">Reach Me At</span> → <a href="mailto:suchitrasahoo874@gmail.com" style="color:#ff66cc; font-weight:bold; text-decoration:none; text-shadow: 0 0 8px #ff66cc;">suchitrasahoo874@gmail.com</a> 
+</p>
+
 
 ---
 
