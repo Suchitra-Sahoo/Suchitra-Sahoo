@@ -6,12 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchitra-sahoo&label=Profile%20views&color=0e75b6&style=flat" alt="suchitra-sahoo" /> </p>
 
-- 🔭 I’m currently working on Backend Development.
-
-- 🌱 I’m currently learning **Flutter, Numpy, Pandas, MongoDB, Nodejs**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
-
 - 📫 How to reach me **suchitrasahoo874@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
