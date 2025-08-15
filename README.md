@@ -8,14 +8,14 @@
   🚀 A Passionate <span style="color:#8a2be2;">Full Stack Developer</span> from India 🚀
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/638891bca5c85744402c7849ea81d377e77142f55441031bded32b23ba062d31/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966">
-
----
-
-<p  style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=suchitra-sahoo&label=Profile%20views&color=ff00ff&style=flat" alt="profile views" width="180" />
+<!-- PROFILE BADGES  -->
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Suchitra-Sahoo&style=for-the-badge&color=orange"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/Suchitra-Sahoo?style=for-the-badge"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/Suchitra-Sahoo?style=for-the-badge"/>
 </p>
 
+---
 
 <p align="left" style="font-size: 20px; color: #00f7ff; font-weight: bold; text-shadow: 
   0 0 5px #00f7ff, 
