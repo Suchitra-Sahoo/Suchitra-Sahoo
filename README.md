@@ -50,13 +50,15 @@
 
 ---
 
-## GitHub Stats ✨
-<!-- GitHub stats with dark theme -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suchitra-sahoo&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" />
+### ⚡ GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suchitra-Sahoo&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suchitra-sahoo&show_icons=true&locale=en&theme=radical" alt="GitHub stats" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchitra-Sahoo&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 ## ✨ Contribution Graph
