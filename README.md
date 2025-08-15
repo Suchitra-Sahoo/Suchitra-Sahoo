@@ -17,29 +17,6 @@
 
 ---
 
-<p align="left" style="font-size: 20px; color: #00f7ff; font-weight: bold; text-shadow: 
-  0 0 5px #00f7ff, 
-  0 0 10px #8a2be2, 
-  0 0 20px #00f7ff, 
-  0 0 30px #8a2be2;">
-💌 <span style="color:#ff6fff;">Reach Me At</span> → <a href="mailto:suchitrasahoo874@gmail.com" style="color:#ff66cc; font-weight:bold; text-decoration:none; text-shadow: 0 0 8px #ff66cc;">suchitrasahoo874@gmail.com</a> 
-</p>
-
-
----
-
-## 🌐 Connect with Me ✨
-<p align="left">
-<a href="https://www.linkedin.com/in/suchitra-sahoo-a60a05257/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/Suchitra_Sahoo_/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-</p>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 | **Languages** | **Frontend** | **Backend / API** | **Databases** | **Tools** | **Design** |
@@ -72,3 +49,23 @@
 <div align="center">
  
 </div>
+
+---
+
+### ✨ Connect With Me!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suchitra-sahoo-a60a05257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:suchitrasahoo874@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/Suchitra-Sahoo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"/>
+  </a>
+</p>
+
+<p align="center">Made with 💜 by Suchitra Sahoo</p>
+
+> 
