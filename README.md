@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 A Passionate <span style="color:#8a2be2;">Full Stack Developer</span> from India 🚀
+  🚀 A Passionate <span style="color:#8a2be2;">MERN Stack Developer</span> from India 🚀
 </h3>
 
 <!-- PROFILE BADGES  -->
