@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suchitra-Sahoo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Suchitra-Sahoo&theme=radical&hide_border=true4" alt="GitHub Streak" />
 </p>
 
 ---
